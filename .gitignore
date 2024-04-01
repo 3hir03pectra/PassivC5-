@@ -1,0 +1,12 @@
+HES*
+Lb_calibration
+Zr*
+Lb_scan_532nm_ZEFIR1*
+get_nz*
+GetNz.py
+TiAbelMatrix*
+*.SPE
+pyCXRS-main
+*.log
+__pycache__
+Lb_calibration.py
